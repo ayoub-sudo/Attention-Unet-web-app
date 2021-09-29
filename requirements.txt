@@ -1,0 +1,12 @@
+voila
+tensorflow
+numpy==1.19.5
+keras_unet_collection
+ipywidgets
+pandas
+matplotlib
+itertools
+skimage
+sklearn
+io
+PIL
