@@ -5,7 +5,7 @@ keras_unet_collection
 ipywidgets
 pandas
 matplotlib
-itertools
+
 skimage
 sklearn
 io
