@@ -1,5 +1,5 @@
 voila
-tensorflow cpu
+tensorflow-cpu
 numpy==1.19.5
 keras_unet_collection
 ipywidgets
