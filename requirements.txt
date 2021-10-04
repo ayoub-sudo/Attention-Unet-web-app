@@ -1,0 +1,7 @@
+tensorflow==2.6.0
+scikit-image==0.18.3
+scikit-learn==0.22.2
+matplotlib==3.4.3
+ipywidgets==7.6.5
+imageio==2.9.0
+keras-unet-collection==0.1.11
